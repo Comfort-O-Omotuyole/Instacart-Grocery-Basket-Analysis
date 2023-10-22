@@ -1,0 +1,10 @@
+,order_number,order_number,order_number
+,mean,min,max
+customer_profile_1,,,
+Married elderly parent,21.87089422,5,99
+Married middle-aged parent,21.83567929,5,99
+Married young parent,21.96133303,5,99
+Single elderly adult,22.11907456,5,99
+Single middle-aged adult,22.27937812,5,99
+Single young adult,21.91357571,5,99
+Single young dependent,22.102311,5,99
